@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358135928764",
+    "project_id": "fir-pushes-ba348",
+    "storage_bucket": "fir-pushes-ba348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358135928764:android:cf99c5cdaf771510eefdb9",
+        "android_client_info": {
+          "package_name": "ru.anvarov.firebasepushes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358135928764-2ds1ek4l33g9rufbslr3pa0e1ckeo36v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3JU2j_bD0sG2Ijrp5itMOjwM-unDZ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358135928764-2ds1ek4l33g9rufbslr3pa0e1ckeo36v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
